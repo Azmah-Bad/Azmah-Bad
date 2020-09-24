@@ -11,7 +11,7 @@ Hi, I'm Hamza, a engineering student at  [INSA Lyon 🦏](https://www.insa-lyon.
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Ftypescript&psig=AOvVaw3JqJBOuQy3rdrkK1pY7os_&ust=1601052073663000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjjkvOdguwCFQAAAAAdAAAAABAD"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fangular-icon&psig=AOvVaw1FjSdbsdXKi4mTvnes_qgX&ust=1601051880587000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJitn5edguwCFQAAAAAdAAAAABAD"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffile-type-django%2F130645&psig=AOvVaw11F1pJHEABLMydnbuZSx40&ust=1601051973605000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDF0cOdguwCFQAAAAAdAAAAABAD"></code>
